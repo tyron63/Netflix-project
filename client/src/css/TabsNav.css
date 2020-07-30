@@ -13,6 +13,13 @@
   }
 }
 
+.line-ff {
+  width: 100%;
+  height: 5px;
+  background-color: #ff000d;
+  margin: 0 auto;
+}
+
 /* Tab 2 */
 .tab-icon-devices {
   width: 8.6875rem;

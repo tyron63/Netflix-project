@@ -7,8 +7,8 @@ import styled from 'styled-components';
 import { generateMedia } from 'styled-media-query';
 
 // Components
-import LoginForm from '../components/Login/LoginForm';
-import LoginFooter from '../components/Login/LoginFooter';
+import SignUpForm from '../components/signUp/SignUpform';
+import SignUpFooter from '../components/signUp/signUpFooter';
 
 class Login extends Component {
   render() {
@@ -19,8 +19,8 @@ class Login extends Component {
             <Logo src={logo} alt="logo" className="logo" />
           </Link>
         </div>
-        <LoginForm />
-        <LoginFooter />
+        <SignUpForm />
+        <SignUpFooter />
       </div>
     );
   }

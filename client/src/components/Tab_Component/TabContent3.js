@@ -19,8 +19,8 @@ function TabContent3() {
           <span style={{ fontSize: '1.5rem' }}>
             Choose one plan watch everything on Netflix
           </span>
-          <Link to='/choose-plan' className='btn'>
-          <Button to='/choose-plan'>Try it now</Button>
+          <Link to='/signUp' className='btn'>
+          <Button >Try it now</Button>
           </Link>
         </div>
         {/* bottom Content */}

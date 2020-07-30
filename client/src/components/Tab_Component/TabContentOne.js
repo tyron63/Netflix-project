@@ -17,7 +17,7 @@ function TabContentOne() {
               Cancel online anytime.
             </span>
             <br />
-            <Link to='/choose-plan'>
+            <Link to='/signUp'>
             <Button style={{ marginTop: '2rem' }}>Try it now</Button>
             </Link>
           </div>

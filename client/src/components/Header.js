@@ -24,7 +24,7 @@ class Header extends Component {
         <div className="header-content">
           <Title>See what's next</Title>
           <SubTitle>WATCH ANYTHING, CANCEL ANYTIME</SubTitle>
-          <Link to='/choose-plan'>
+          <Link to='/signUp'>
           <Button className="main-offer-btn" primary>
             join free for a month
           </Button>
