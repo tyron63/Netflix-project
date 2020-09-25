@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://6ZeRo2001:6ZeRo2001@netflix-clone01.pt5tb.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
